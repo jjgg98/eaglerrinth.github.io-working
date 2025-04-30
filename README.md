@@ -9,3 +9,5 @@
 - [ ] Make Backend
 - [ ] Add Client Mods
 - [ ] ~~Eliminate Skids~~
+ALSO YOU NEED TO RUN THESE COMMANDS IN REPLIT FIRST FOR IT WO RUN
+comming soon
